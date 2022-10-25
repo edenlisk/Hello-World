@@ -18,7 +18,3 @@ Just clone the repository, and you are ready to go!!
 * Twitter: [@nkumbuyedeni](https://twitter.com/nkumbuyedeni)
 ## Show Your support
 Give a ⭐ to motivate me
-
-## License
-***
-This Project is MIT licensed
